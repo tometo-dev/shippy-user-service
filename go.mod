@@ -8,6 +8,6 @@ require (
 	github.com/jinzhu/gorm v1.9.12
 	github.com/micro/go-micro v1.18.0
 	github.com/micro/go-plugins/registry/mdns v0.0.0-20200118220655-eeff0c80b411
-	github.com/micro/protobuf v0.0.0-20180321161605-ebd3be6d4fdb // indirect
+	github.com/satori/go.uuid v1.2.0
 	golang.org/x/crypto v0.0.0-20200117160349-530e935923ad
 )
